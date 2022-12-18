@@ -7,12 +7,15 @@ Our project goal is to develop an algorithm solution for our client, Arboretica,
 
 ### Step 1: Data
 - scraping.ipynb 
+
 This is the code for data_scraping. There are two sections for scraping tech and financial news. The packages used are BeautifulSoup and newspaper3k.
 
 - Data cleaning and preprocessing.ipynb
 ...
 
 - train_data_arboretica.csv
+
+
 The original data provided by Arboretica. 
 
 - Cleaned_full_data.csv
@@ -20,6 +23,8 @@ The original data provided by Arboretica.
 
 ### Step 2: NER + LUKE
 - Spacy-NER(Roberta).ipynb
+
+
 Our baseline model using spaCy. 
 
 - Luke_NER.ipynb
