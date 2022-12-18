@@ -6,34 +6,34 @@ Our project goal is to develop an algorithm solution for our client, Arboretica,
 ## Repo Content Overview
 
 ### Step 1: Data
-- scraping.ipynb 
+- `scraping.ipynb` 
 
 This is the code for data_scraping. There are two sections for scraping tech and financial news. The packages used are BeautifulSoup and newspaper3k.
 
-- Data cleaning and preprocessing.ipynb
+- `Data cleaning and preprocessing.ipynb`
 ...
 
-- train_data_arboretica.csv
+- `train_data_arboretica.csv`
 
 
 The original data provided by Arboretica. 
 
-- Cleaned_full_data.csv
+- `Cleaned_full_data.csv`
 ...
 
 ### Step 2: NER + LUKE
-- Spacy-NER(Roberta).ipynb
+- `Spacy-NER(Roberta).ipynb`
 
 
 Our baseline model using spaCy. 
 
-- Luke_NER.ipynb
+- `Luke_NER.ipynb`
 
-- Luke_NER_full_data.ipynb
+- `Luke_NER_full_data.ipynb`
 
-- Multi_label_relationship_extraction.ipynb
+- `Multi_label_relationship_extraction.ipynb`
 
-- Annotated_Multi_label_relationship_extraction.ipynb
+- `Annotated_Multi_label_relationship_extraction.ipynb`
 
 
 
